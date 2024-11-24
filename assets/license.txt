@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gas Station
+* source:	https://sketchfab.com/3d-models/gas-station-21490a25d906417681e7cb99600c6bf2
+* author:	ChocolateEmpire (https://sketchfab.com/ChocolateEmpire)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gas Station" (https://sketchfab.com/3d-models/gas-station-21490a25d906417681e7cb99600c6bf2) by ChocolateEmpire (https://sketchfab.com/ChocolateEmpire) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
