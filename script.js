@@ -30,7 +30,7 @@ controls.maxDistance = 50;
 controls.maxPolarAngle = Math.PI/2;
 
 
-const createEmissonMaterial = (color , intensity = 2)=>{
+const createEmissonMaterial = (color , intensity = 3 )=>{
   return new THREE.MeshStandardMaterial({
     color:color,
     emission:color,
