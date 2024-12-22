@@ -1,7 +1,7 @@
 
 # 3D Garage 🚗  
 
-Welcome to **3D Garage**, a 3D landing page built using [Three.js](https://threejs.org/). This project showcases **3D models of cars**, allowing users to explore them interactively. With the help of **GLTFLoader** for loading models and **OrbitControls** for navigation, the 3D Garage is designed to be intuitive and visually stunning.  
+Welcome to **3D Garage**, a 3D landing page built using [Three.js](https://threejs.org/). This project showcases **3D models of garage**, allowing users to explore them interactively. With the help of **GLTFLoader** for loading models and **OrbitControls** for navigation, the 3D Garage is designed to be intuitive and visually stunning.  
 
 ---
 
